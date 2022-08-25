@@ -1,0 +1,8 @@
+C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\HRTraining.Core\bin\Debug\netcoreapp3.1\HRTraining.Core.deps.json
+C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\HRTraining.Core\bin\Debug\netcoreapp3.1\HRTraining.Core.dll
+C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\HRTraining.Core\bin\Debug\netcoreapp3.1\HRTraining.Core.pdb
+C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\HRTraining.Core\obj\Debug\netcoreapp3.1\HRTraining.Core.AssemblyInfoInputs.cache
+C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\HRTraining.Core\obj\Debug\netcoreapp3.1\HRTraining.Core.AssemblyInfo.cs
+C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\HRTraining.Core\obj\Debug\netcoreapp3.1\HRTraining.Core.csproj.CoreCompileInputs.cache
+C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\HRTraining.Core\obj\Debug\netcoreapp3.1\HRTraining.Core.dll
+C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\HRTraining.Core\obj\Debug\netcoreapp3.1\HRTraining.Core.pdb

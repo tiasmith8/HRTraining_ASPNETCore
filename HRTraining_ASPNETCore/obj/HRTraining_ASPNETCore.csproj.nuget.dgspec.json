@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tsmith\\source\\repos\\2022\\HRTraining_ASPNETCore\\HRTraining_ASPNETCore\\HRTraining_ASPNETCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tsmith\\source\\repos\\2022\\HRTraining_ASPNETCore\\HRTraining.Core\\HRTraining.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tsmith\\source\\repos\\2022\\HRTraining_ASPNETCore\\HRTraining.Core\\HRTraining.Core.csproj",
+        "projectName": "HRTraining.Core",
+        "projectPath": "C:\\Users\\tsmith\\source\\repos\\2022\\HRTraining_ASPNETCore\\HRTraining.Core\\HRTraining.Core.csproj",
+        "packagesPath": "C:\\Users\\tsmith\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tsmith\\source\\repos\\2022\\HRTraining_ASPNETCore\\HRTraining.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tsmith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://api.nuget.org/v3/index.json": {},
+          "https://nugetstaging.onosys.com/nuget": {},
+          "https://pkgs.dev.azure.com/onosystfs/Enterprise/_packaging/onosys-storefront/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tsmith\\source\\repos\\2022\\HRTraining_ASPNETCore\\HRTraining.Data\\HRTraining.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tsmith\\source\\repos\\2022\\HRTraining_ASPNETCore\\HRTraining.Data\\HRTraining.Data.csproj",
+        "projectName": "HRTraining.Data",
+        "projectPath": "C:\\Users\\tsmith\\source\\repos\\2022\\HRTraining_ASPNETCore\\HRTraining.Data\\HRTraining.Data.csproj",
+        "packagesPath": "C:\\Users\\tsmith\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tsmith\\source\\repos\\2022\\HRTraining_ASPNETCore\\HRTraining.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tsmith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://api.nuget.org/v3/index.json": {},
+          "https://nugetstaging.onosys.com/nuget": {},
+          "https://pkgs.dev.azure.com/onosystfs/Enterprise/_packaging/onosys-storefront/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\tsmith\\source\\repos\\2022\\HRTraining_ASPNETCore\\HRTraining.Core\\HRTraining.Core.csproj": {
+                "projectPath": "C:\\Users\\tsmith\\source\\repos\\2022\\HRTraining_ASPNETCore\\HRTraining.Core\\HRTraining.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tsmith\\source\\repos\\2022\\HRTraining_ASPNETCore\\HRTraining_ASPNETCore\\HRTraining_ASPNETCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tsmith\\source\\repos\\2022\\HRTraining_ASPNETCore\\HRTraining_ASPNETCore\\HRTraining_ASPNETCore.csproj",
+        "projectName": "HRTraining_ASPNETCore",
+        "projectPath": "C:\\Users\\tsmith\\source\\repos\\2022\\HRTraining_ASPNETCore\\HRTraining_ASPNETCore\\HRTraining_ASPNETCore.csproj",
+        "packagesPath": "C:\\Users\\tsmith\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tsmith\\source\\repos\\2022\\HRTraining_ASPNETCore\\HRTraining_ASPNETCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tsmith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://api.nuget.org/v3/index.json": {},
+          "https://nugetstaging.onosys.com/nuget": {},
+          "https://pkgs.dev.azure.com/onosystfs/Enterprise/_packaging/onosys-storefront/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\tsmith\\source\\repos\\2022\\HRTraining_ASPNETCore\\HRTraining.Data\\HRTraining.Data.csproj": {
+                "projectPath": "C:\\Users\\tsmith\\source\\repos\\2022\\HRTraining_ASPNETCore\\HRTraining.Data\\HRTraining.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.16, 3.1.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

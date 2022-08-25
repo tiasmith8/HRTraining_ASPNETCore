@@ -1,0 +1,24 @@
+﻿@page
+@model HRTraining_ASPNETCore.Pages.WorkoutsListModel
+@{
+    
+}
+
+<h1>Workouts</h1>
+<table class="table">
+    @foreach (var workout in Model.Workouts)
+    {
+        <tr>
+            <td>@workout.Name</td>
+            <td>@workout.StartTime</td>
+            <td>@workout.WorkoutType</td>
+            <td>@workout.Duration</td>
+        </tr>
+    }
+
+</table>
+
+
+
+
+<div>@Model.Message</div>
