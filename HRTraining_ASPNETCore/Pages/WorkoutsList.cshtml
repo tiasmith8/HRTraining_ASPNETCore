@@ -5,6 +5,22 @@
 }
 
 <h1>Workouts</h1>
+<form method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" value="" />
+            <span class="btn-group">
+                <button class="btn btn-info">
+                    @*<i class="i"></i>*@
+                </button>
+            </span>
+        </div>
+    </div>
+
+</form>
+
+
+
 <table class="table">
     @foreach (var workout in Model.Workouts)
     {
