@@ -1,0 +1,1 @@
+# HRTraining_ASPNETCore
