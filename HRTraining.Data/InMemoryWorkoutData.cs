@@ -40,9 +40,10 @@ namespace HRTraining.Data
             };
         }
 
-        public IEnumerable<Workout> GetAll()
+        public IEnumerable<Workout> GetWorkoutsByName(string name = null) // Default value so name becomes optional
         {
             return from w in workouts
+                   where string.IsNullOrEmpty(name) || w.Name.StartsWith(name)
                    orderby w.Name
                    select w;
         }

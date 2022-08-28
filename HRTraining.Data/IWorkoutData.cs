@@ -6,6 +6,7 @@ namespace HRTraining.Data
     // Keeping data access separate from entities and UI/web application part
     public interface IWorkoutData
     {
-        public IEnumerable<Workout> GetAll();
+        // passing empty/null name retuns all workouts
+        public IEnumerable<Workout> GetWorkoutsByName(string name);
     }
 }
