@@ -21,10 +21,10 @@ namespace HRTraining_ASPNETCore.Pages
             this.workoutData = workoutData;
         }
 
-        public void OnGet()
+        public void OnGet(string searchTerm) // ASP.NET Core will try to find something that is a searchTerm
         {
             Message = config["Message"];
-            Workouts = workoutData.GetAll();
+            Workouts = workoutData.GetWorkoutsByName(searchTerm);
         }
     }
 }
