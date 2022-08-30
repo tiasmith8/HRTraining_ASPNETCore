@@ -1,0 +1,20 @@
+﻿@page
+@model HRTraining_ASPNETCore.Pages.Workouts.WorkoutDetailModel
+@{
+}
+
+<h2>@Model.Workout.Name</h2>
+<div>
+    Workout ID: @Model.Workout.ID
+</div>
+<div>
+    Type of Workout: @Model.Workout.WorkoutType
+</div>
+<div>
+    Workout Start Time: @Model.Workout.StartTime
+</div>
+<div>
+    Workout Duration: @Model.Workout.Duration
+</div>
+
+<a asp-page="../WorkoutList" class="btn btn-dark">All Workouts</a>

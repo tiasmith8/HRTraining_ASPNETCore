@@ -82,3 +82,4 @@ C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\ob
 C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\obj\Debug\netcoreapp3.1\HRTraining_ASPNETCore.dll
 C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\obj\Debug\netcoreapp3.1\HRTraining_ASPNETCore.pdb
 C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\obj\Debug\netcoreapp3.1\HRTraining_ASPNETCore.genruntimeconfig.cache
+C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Pages\Workouts\WorkoutDetail.cshtml.g.cs

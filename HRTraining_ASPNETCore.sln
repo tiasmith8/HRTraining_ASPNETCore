@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HRTraining_ASPNETCore", "HRTraining_ASPNETCore\HRTraining_ASPNETCore.csproj", "{97F0869C-C30F-4364-A099-AF7F262D76E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRTraining.Core", "HRTraining.Core\HRTraining.Core.csproj", "{39203099-5BB5-40AE-AC94-15331A23646C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HRTraining.Core", "HRTraining.Core\HRTraining.Core.csproj", "{39203099-5BB5-40AE-AC94-15331A23646C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRTraining.Data", "HRTraining.Data\HRTraining.Data.csproj", "{BB674F3A-F932-46DE-9281-47279E2605E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HRTraining.Data", "HRTraining.Data\HRTraining.Data.csproj", "{BB674F3A-F932-46DE-9281-47279E2605E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
