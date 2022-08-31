@@ -72,7 +72,6 @@ C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\ob
 C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
 C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Pages\WorkoutsList.cshtml.g.cs
 C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
 C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\obj\Debug\netcoreapp3.1\HRTraining_ASPNETCore.RazorTargetAssemblyInfo.cache
@@ -82,4 +81,5 @@ C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\ob
 C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\obj\Debug\netcoreapp3.1\HRTraining_ASPNETCore.dll
 C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\obj\Debug\netcoreapp3.1\HRTraining_ASPNETCore.pdb
 C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\obj\Debug\netcoreapp3.1\HRTraining_ASPNETCore.genruntimeconfig.cache
-C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Pages\Workouts\WorkoutDetail.cshtml.g.cs
+C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Pages\Workouts\Detail.cshtml.g.cs
+C:\Users\tsmith\source\repos\2022\HRTraining_ASPNETCore\HRTraining_ASPNETCore\obj\Debug\netcoreapp3.1\Razor\Pages\Workouts\List.cshtml.g.cs

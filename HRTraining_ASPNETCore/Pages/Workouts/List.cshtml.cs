@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Configuration;
 
-namespace HRTraining_ASPNETCore.Pages
+namespace HRTraining_ASPNETCore.Pages.Workouts
 {
     public class WorkoutsListModel : PageModel
     {        
