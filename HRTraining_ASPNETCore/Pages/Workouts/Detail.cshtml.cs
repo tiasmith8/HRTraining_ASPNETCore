@@ -12,9 +12,12 @@ namespace HRTraining_ASPNETCore.Pages.Workouts
     {
         public Workout Workout { get; set; }
 
-        public void OnGet()
+        // Adding workoutId as a paramenter not a property because
+        // here it's strictly an input model
+        public void OnGet(Guid workoutId)
         {
             Workout = new Workout();
+            Workout.ID = workoutId;
         }
     }
 }
