@@ -29,6 +29,13 @@
             <td>@workout.StartTime</td>
             <td>@workout.WorkoutType</td>
             <td>@workout.Duration</td>
+            <td>
+                @*<button type="button" class="btn btn-lg btn-primary">Hi</button>*@
+                <a class="btn btn-lg"
+                   href="/Workouts/Detail?workoutId=@workout.ID">
+                   <i class="form-check"></i>
+                </a>
+            </td>
         </tr>
     }
 
